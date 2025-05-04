@@ -1,0 +1,20 @@
+{
+    "ui.buttons.login": "登录",  
+    "ui.buttons.logout": "退出",
+    "ui.buttons.reset": "重置",
+    "ui.buttons.cancel": "取消",
+    "ui.buttons.save": "保存",
+    "ui.settings-view.banner-title": "Dropbox设置",
+    "ui.settings-view.advanced-settings-title": "高级设置",
+    "ui.settings-view.advanced-settings-warning": "只有在知道自己在做什么的情况下才更改这些设置",
+    "ui.settings-view.app-key-title": "软件秘钥",
+    "ui.settings-view.app-key-tooltip": "用于调用Dropbox API的应用程序密钥",
+    "ui.settings-view.refresh-token-title": "刷新令牌",
+    "ui.settings-view.refresh-token-tooltip": "调用Dropbox API时要使用的刷新令牌",
+    "messages.settings-view-model.failed-open-url.copied-to-clipboard": "无法在浏览器中打开url，将url复制到剪贴板。",
+    "messages.settings-view-model.failed-retrieve-code.check-logs": "检索代码时发生错误，请检查日志以获取更多信息。",
+    "messages.settings-view-model.query-no-code": "无法完成身份验证过程，因为api没有返回代码。",
+    "messages.settings-view-model.retrieving-token": "获取令牌…",
+    "messages.settings-view-model.failed-get-token-response.check-logs": "检索令牌响应时发生错误，请检查日志以获取更多信息。",
+    "messages.settings-view-model.failed-auth.no-token": "无法完成身份验证过程，因为api没有返回令牌。"
+}
